@@ -8,7 +8,8 @@ To prove our code's reproducibility, we present validation of LatentGaze on MPII
 
 Due to encoding and generating the images tasks are very time-consuming, we prepare the gaze estimation code while except encoder-decoder codes. Hence, we prepare validation of LatentGaze in the single-domain task.
 
-You can find the encoder-decoder codes at https://anonymous.4open.science/r/LatentGaze/
+The encoder decoder code is being cleaned up. please wait
+
 
 
 # Datasets
